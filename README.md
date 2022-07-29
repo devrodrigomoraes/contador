@@ -1,4 +1,6 @@
 # Contador
 
-h2 Primeiro projeto Javascript.
+Primeiro projeto Javascript. Integração de um código Javascript com uma página HTML.
+
+
 
